@@ -1,6 +1,7 @@
 .env
-data/db/*.db
+data/db/
 data/logs/
+data/backtest_markets.json
 __pycache__/
 *.pyc
 *.pyo
